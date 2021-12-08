@@ -1,0 +1,21 @@
+.modal{
+    display: none;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 100px;
+    width: 90%;
+    border: 1px solid #000;
+}
+.normal{
+    text-align: center;
+    margin: 100px;
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+}
+a{
+    margin-bottom: 10px;
+}
